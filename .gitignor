@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Game logs
+game_state.json
+*.jsonl
+
+# OS generated files
+.DS_Store

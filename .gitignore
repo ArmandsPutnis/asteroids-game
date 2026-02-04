@@ -7,8 +7,12 @@ venv/
 env/
 
 # Game logs
+game_events.jsonl
 game_state.json
 *.jsonl
 
 # OS generated files
 .DS_Store
+
+#MD files
+*.md
